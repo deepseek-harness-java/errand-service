@@ -1,0 +1,6 @@
+id: errand-copilot
+name: AI 跑腿代办管家
+version: 1.0.0
+author: xfg-studio
+description: AI 跑腿代办管家，支持服务价目（文档取送/蛋糕配送/代购跑腿/排队代办/跨城急送）、跑男查询、下单（要素确认）、订单查询与运营统计。
+entrypoint: cn.xiaofuge.r.plugin.ErrandPlugin
